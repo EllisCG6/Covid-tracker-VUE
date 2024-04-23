@@ -19,3 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# EllisCG6" 
 "# EllisCG6" 
+"# Covid-tracker-VUE" 
